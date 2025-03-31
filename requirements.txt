@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+spacy
+flask
+paddleocr
+paddlepaddle
+sentence-transformers
+transformers

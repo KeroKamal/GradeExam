@@ -1,0 +1,45 @@
+1-What is the chemical symbol for silver?  
+Answer: Ag.
+
+2-What is the speed of light in a vacuum?  
+Answer: 299,792,458 m/s.
+
+3-Which blood type is considered the universal donor?  
+Answer: O negative.
+
+4-In which year did the Berlin Wall fall?  
+Answer: 1989.
+
+5-On which continent is the Sahara Desert primarily located?  
+Answer: Africa.
+
+6-Who wrote "Pride and Prejudice"?  
+Answer: Jane Austen.
+
+7-What does HTTP stand for?  
+Answer: HyperText Transfer Protocol.
+
+8-Who painted the ceiling of the Sistine Chapel?  
+Answer: Michelangelo.
+
+9-What is the primary measure of a country's economic output?  
+Answer: Gross Domestic Product (GDP).
+
+10-What is the derivative of sin(x)?  
+Answer: cos(x).
+
+
+
+
+1-Au  
+2-299792458  
+3- O positive 
+4-1999
+5-europe
+6-jane austen 
+7-hyper text transfer protoco
+8-michel
+9-GDP
+10-cos x
+
+
